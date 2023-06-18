@@ -41,5 +41,5 @@
     "*.{ts,tsx}": [
       "yarn lint:fix"
     ]
-  },
+  }
 }
